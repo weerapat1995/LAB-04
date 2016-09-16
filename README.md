@@ -4,17 +4,15 @@
 1. เพื่อให้นักศึกษาบอกชื่อ method ที่ใช้ในการแสดงผลบน Text Mode ขั้นพื้นฐานในภาษา C# ได้
 2. เพื่อให้นักศึกษาสามารถใช้คำสั่งแสดงผลทางหน้าจอ เบื้องต้นได้
 
-## แหล่งความรู้ประกอบการทดลอง
-
 ##ลำดับขั้นการทดลอง
 ###การเตรียมการก่อนการทดลอง
   * เปิดโปรแกรม Visual Studio 
   *  เลือก File >>New Project >> เลือก Console Application 
 ![P1](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P1.png)
   *  ช่อง Name ใส่ชื่อของ project (ในที่นี้คือ Lab4)
-  *  ช่อง Location ใส่ชื่อ folder ที่เป็นที่ตั้งของ Project (ในที่นี้คือ E:\vslab)
+  *  ช่อง Location ใส่ชื่อ folder ที่เป็นที่ตั้งของ Project (ในที่นี้ สมมติเป็น E:\vslab)
   *  ช่อง Solution name ให้ใส่ชื่อ Solution โดยปกติก็ให้ปล่อยไว้อย่างนั้น 
-  *  กดปุ่ม OK โปรแกรม VS2012 จะสร้าง project ชื่อ “lab4”ภายใต้ solution “lab4” และไฟล์ lsb4.cs ซึ่งมี source code ดังรูป 
+  *  กดปุ่ม OK โปรแกรม Visual Studio จะสร้าง project ชื่อ “lab4”ภายใต้ solution “lab4” และไฟล์ lsb4.cs ซึ่งมี source code ดังรูป 
 
 ![P2](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P2.png)
 
@@ -32,7 +30,7 @@
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P3.png)
  
- *สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
+ * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
 <hr>
@@ -45,7 +43,7 @@
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P4.png)
 
-สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
+ * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
 <hr>
 <hr>
 <hr>
@@ -69,7 +67,7 @@
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P5.png)
 
-สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
+ * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
 <hr>
@@ -82,7 +80,7 @@
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
-สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
+ * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
 <hr>
 <hr>
 <hr>
