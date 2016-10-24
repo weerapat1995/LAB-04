@@ -44,6 +44,7 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P4.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
+ * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 <hr>
 <hr>
 <hr>
